@@ -234,11 +234,11 @@ Building Practical Business Solutions
 
 **Let's build something valuable together.**
 
-📧 **Email:** your-email@example.com
+📧 **Email:** chetanvshah20@gmail.com
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chetanvshah20)
 
-🐙 **GitHub:** [View my projects](https://github.com/)
+🐙 **GitHub:** [View my projects](https://github.com/chetanvshah20)
 
 </div>
 
