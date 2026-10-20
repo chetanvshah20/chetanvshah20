@@ -57,23 +57,31 @@ I work on practical software solutions that help businesses improve their workfl
 
 ## 🚀 Featured Projects
 
-### 1. LearningPro — Learning Management System
+### 1. LearningPro — Learning Management System (LMS)
 
-**Technologies:** React, Vite, Node.js, Express.js, MongoDB
+**Status:** Core project completed; project documentation added to the repository.
 
-A learning management system designed to support administrators, faculty members, and learners.
+**Technology stack:** React, Vite, Node.js, Express.js, MongoDB, JWT
 
-**Key features:**
-- User authentication and role-based access.
-- Course and user management.
-- Course details and learning materials.
-- Learner enrollment workflows.
-- Ratings and feedback.
-- Faculty and learner functionality.
+LearningPro is a web-based Learning Management System developed for an EdTech scenario. It provides separate workflows for Admin, Faculty, and Learner users.
 
-**Current status:** Development is substantially complete. Testing and project documentation are in progress.
+**Key features**
+- Authentication and role-based access control.
+- Admin management of user accounts, courses, and faculty assignments.
+- Faculty updates to learning content for assigned courses.
+- Learner course enrollment and a My Courses area.
+- Learning progress management.
+- Course ratings and feedback.
+- User profile management.
 
-Repository and demonstration links will be added after the project has been verified.
+**Project documentation**
+- [LearningPro repository](https://github.com/chetanvshah20/LeaningPro)
+- [Main project README](https://github.com/chetanvshah20/LeaningPro/blob/main/README.md)
+- [Documentation index](https://github.com/chetanvshah20/LeaningPro/blob/main/docs/README.md)
+- [Installation guide](https://github.com/chetanvshah20/LeaningPro/blob/main/docs/Installation-Guide.md)
+- [Project walkthrough PDF](https://github.com/chetanvshah20/LeaningPro/blob/main/docs/Final%20Project.pdf)
+
+> **Repository visibility:** The LearningPro repository is currently private. Visitors without repository access will not be able to open its source code or documentation. Consider making it public only after reviewing the code, configuration files, credentials, and personal data.
 
 ### 2. Business Application Development
 
