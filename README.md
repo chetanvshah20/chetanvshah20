@@ -2,128 +2,101 @@
 
 ### Independent Software Development Consultant | Senior Software Engineer
 
-**Helping businesses build, maintain, and improve software applications.**
+**Building, enhancing, and maintaining practical software solutions for businesses.**
 
-I am a software development professional with 20+ years of experience building business applications, developing backend systems, and working with relational databases.
+I am a software development professional with 20+ years of overall experience in designing, developing, maintaining, and supporting business applications.
 
-My core expertise includes ASP.NET, C#, SQL Server, application maintenance, database development, and full-stack web development.
+My strongest areas are **ASP.NET / ASP.NET MVC, C#, and Microsoft SQL Server**. I also work with modern web technologies including **JavaScript, React, Node.js, and Express.js**, and continue to build on these skills through hands-on development.
 
-I work on practical software solutions that help businesses improve their workflows, maintain existing applications, and address technical challenges.
+I can support businesses with new application development, existing system enhancement, backend development, database solutions, and ongoing technical support.
 
 ---
 
-## 💼 Services I Offer
+## 💼 Services
 
-### 🔹 Custom Software Development
-- Business web applications using ASP.NET and C#.
+### Custom Software Development
+- Business web application development using ASP.NET, ASP.NET MVC, and C#.
 - Backend development and REST API integration.
-- Application enhancements and new features.
+- New modules, features, and application enhancements.
 - Database-driven business applications.
 
-### 🔹 SQL Server Development & Optimization
-- SQL queries and stored procedure development.
-- Database design and troubleshooting.
-- Query performance investigation and optimization.
-- Data exports, reporting, and business data processing.
+### SQL Server Database Solutions
+- Database design and development.
+- SQL queries, views, and stored procedure development.
+- Query analysis and performance optimization.
+- Database troubleshooting, maintenance, and reporting support.
 
-### 🔹 Legacy Application Maintenance
-- ASP.NET Web Forms application maintenance.
+### Legacy Application Maintenance
+- ASP.NET Web Forms and ASP.NET MVC application maintenance.
 - Bug fixing and production issue investigation.
 - Existing application enhancements.
-- Gradual modernization of legacy systems.
+- Support for gradual application modernization.
 
-### 🔹 Software Development Support
-- Backend development for software companies.
-- Application troubleshooting and debugging.
-- Code reviews and technical problem-solving.
-- Ongoing development and maintenance support.
+### Modern Web Application Development
+- JavaScript-based application development.
+- React frontend development.
+- Node.js and Express.js backend development.
+- REST API integration and database connectivity.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technologies
 
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
-| Backend | ASP.NET, ASP.NET Core, MVC, C#, Node.js, Express.js |
+| Core application development | ASP.NET, ASP.NET MVC, ASP.NET Core, C# |
+| Databases | Microsoft SQL Server, MongoDB |
+| Backend / APIs | Node.js, Express.js, REST APIs |
 | Frontend | JavaScript, React, HTML5, CSS3, Bootstrap, jQuery |
-| Databases | Microsoft SQL Server, MongoDB, Firebase Realtime Database |
-| Programming | C#, JavaScript, Python, PHP, Java, VB.NET |
-| Data Analysis | Python, Pandas, NumPy, Excel |
-| Tools & Practices | Git, REST APIs, debugging, database design, code reviews |
+| Other technical exposure | VB.NET, Python, PHP, Java |
+| Tools and practices | Git, debugging, database design, code review, application maintenance |
 
-*Technologies listed reflect my development experience and technical exposure; availability and depth of experience may vary by technology.*
+My experience is strongest in ASP.NET, C#, and SQL Server. My depth of experience varies across other technologies, and I describe each area according to my actual project experience.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Portfolio
 
-### 1. LearningPro — Learning Management System (LMS)
+I have worked on business application development and am preparing selected project case studies for this profile.
 
-**Status:** Core project completed; project documentation added to the repository.
+Portfolio entries will focus on:
+- The business problem and project objectives.
+- Main features and application workflows.
+- Technologies used and my role.
+- Sanitized screenshots or demonstrations, where permitted.
 
-**Technology stack:** React, Vite, Node.js, Express.js, MongoDB, JWT
-
-LearningPro is a web-based Learning Management System developed for an EdTech scenario. It provides separate workflows for Admin, Faculty, and Learner users.
-
-**Key features**
-- Authentication and role-based access control.
-- Admin management of user accounts, courses, and faculty assignments.
-- Faculty updates to learning content for assigned courses.
-- Learner course enrollment and a My Courses area.
-- Learning progress management.
-- Course ratings and feedback.
-- User profile management.
-
-**Project documentation**
-- [LearningPro repository](https://github.com/chetanvshah20/LeaningPro)
-- [Main project README](https://github.com/chetanvshah20/LeaningPro/blob/main/README.md)
-- [Documentation index](https://github.com/chetanvshah20/LeaningPro/blob/main/docs/README.md)
-- [Installation guide](https://github.com/chetanvshah20/LeaningPro/blob/main/docs/Installation-Guide.md)
-- [Project walkthrough PDF](https://github.com/chetanvshah20/LeaningPro/blob/main/docs/Final%20Project.pdf)
-
-> **Repository visibility:** The LearningPro repository is currently private. Visitors without repository access will not be able to open its source code or documentation. Consider making it public only after reviewing the code, configuration files, credentials, and personal data.
-
-### 2. Business Application Development
-
-Experience developing and maintaining database-driven applications for business workflows, data management, reporting, and operational requirements.
-
-Additional projects will be featured here as their repositories, documentation, and demonstration materials are reviewed and prepared.
+**Source code, database scripts, stored procedures, credentials, and confidential project information are not published in this public portfolio.** This profile is intended to showcase project experience without exposing proprietary development assets.
 
 ---
 
-## 🤝 Who I Work With
-
-I am interested in working with:
+## 🤝 Who I Can Support
 
 - Small and medium-sized businesses.
-- Software development companies.
-- Startups requiring application development support.
-- Businesses maintaining existing ASP.NET applications.
-- Teams needing SQL Server development and optimization.
+- Software development companies needing additional development support.
+- Startups building business applications.
+- Organizations maintaining existing ASP.NET applications.
+- Teams requiring SQL Server development, troubleshooting, or optimization.
 
-I am open to independent development assignments, project-based collaboration, application maintenance, and longer-term technical support engagements.
+I am open to project-based assignments, independent development work, application maintenance, and technical collaboration.
 
 ---
 
-## 💡 My Approach
+## 💡 How I Work
 
-- Understand the business requirement before choosing a solution.
-- Focus on maintainable and practical implementations.
-- Investigate problems systematically.
+- Understand requirements and agree on scope before development.
+- Define deliverables, responsibilities, and assumptions clearly.
+- Focus on maintainable, practical solutions.
 - Consider performance, security, and reliability.
-- Communicate clearly about scope, estimates, and delivery.
+- Communicate progress, risks, and changes transparently.
 
 ---
 
 ## 📬 Let's Connect
 
-Have an application that needs improvement, a SQL Server problem to investigate, or a business application to develop?
-
-I welcome opportunities to discuss your requirements and explore suitable technical solutions.
+If you need support with a business application, an existing ASP.NET system, or a SQL Server database, feel free to get in touch.
 
 - **GitHub:** [chetanvshah20](https://github.com/chetanvshah20)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chetanvshah20)
 - **Email:** chetanvshah20@gmail.com
-
----
 
 **Let's turn business requirements into practical software solutions.**
